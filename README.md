@@ -1,4 +1,4 @@
-# List and export all your domains in CF using API if you have several d
+# List and export all your domains in CF using API 
 
 
 1. Generate your CF API token https://developers.cloudflare.com/fundamentals/api/get-started/create-token/
